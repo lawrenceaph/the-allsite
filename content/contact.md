@@ -3,4 +3,4 @@ title = "Contact"
 slug = "contact"
 +++
 
-You Awesome Contact Information Goes Here!
+Follow me, @johndoe.
