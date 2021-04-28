@@ -6,6 +6,9 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
+# Edit this portion by opening /content/about.md in your repository and make changes there.
+
+
 ## Readme content:
 
 # the-allsite
