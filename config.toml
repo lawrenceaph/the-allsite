@@ -141,7 +141,7 @@ type = "application/rss+xml"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "about"
+name = "About"
 weight = 1
 url = "about/"
 
